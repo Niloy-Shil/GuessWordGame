@@ -73,8 +73,7 @@ char w[15];
 printf("the leter of word is =%d.",i);
 	printf("\nenter:");
 	scanf("%s",&w);
-	  j=strlen(w);
-	  printf("the leter of word is =%d.",j);
+	  
 int	value = strcmp(w,Word[a]);
 	if (value==0)
 	{
